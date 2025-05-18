@@ -13,11 +13,11 @@ Just a guy from Ghana who loves turning ideas into slick, user-friendly websites
 
 **RentalConnect**
 Connecting renters & landlords with zero fuss. Frontend’s live – backend in the works.
-\[Live Demo](rentalconnect.vercel.app) | \[Repo](https://github.com/e-mond/rental.connect)
+\[rentalconnect.vercel.app)](rentalconnect.vercel.app) | \[https://github.com/e-mond/rental.connect]
 
 **StuVerFlow**
 A student-friendly StackOverflow clone. Built it with love (and JavaScript).
-\[Live Demo](https://stuverflow.vercel.app) | \[Repo](https://github.com/e-mond/StuVerFlow)
+\[https://stuverflow.vercel.app] | \[https://github.com/e-mond/StuVerFlow]
 
 ---
 
