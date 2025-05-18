@@ -5,19 +5,19 @@ Just a guy from Ghana who loves turning ideas into slick, user-friendly websites
 📍 **Ghana**
 🎓 **Student @ TTU** (B.Tech Software Engineering)
 🛠️ **Tools I Love**: JavaScript, GitHub, VS Code
-💡 **Playing With**: Java (yes, the backend stuff),MongoDB REST APIs, Vercel
+💡 **Playing With**: Java (yep, the backend bits), MongoDB, REST APIs, Vercel
 
 ---
 
 ### 🚧 Projects I’ve Been Jamming On
 
-**RentalConnect**
+**🏡 RentalConnect**
 Connecting renters & landlords with zero fuss. Frontend’s live – backend in the works.
-\[rentalconnect.vercel.app)](rentalconnect.vercel.app) | \[https://github.com/e-mond/rental.connect]
+🔗 [Live Demo](https://rentalconnect.vercel.app) | [GitHub Repo](https://github.com/e-mond/rental.connect)
 
-**StuVerFlow**
+**🎓 StuVerFlow**
 A student-friendly StackOverflow clone. Built it with love (and JavaScript).
-\[https://stuverflow.vercel.app] | \[https://github.com/e-mond/StuVerFlow]
+🔗 [Live Demo](https://stuverflow.vercel.app) | [GitHub Repo](https://github.com/e-mond/StuVerFlow)
 
 ---
 
@@ -25,6 +25,7 @@ A student-friendly StackOverflow clone. Built it with love (and JavaScript).
 
 📧 [e\_anderson@yahoo.com](mailto:e_anderson@yahoo.com)
 🌐 Portfolio – *Coming soon!*
+
 
 > *"Code simple. Learn fast. Build cool stuff."* 💥
 
