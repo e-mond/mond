@@ -2,10 +2,12 @@
 
 Just a guy from Ghana who loves turning ideas into slick, user-friendly websites. Obsessed with clean UI, diving into backend magic, and riding the AI wave. Always building, always learning. 🚀
 
-📍 **Ghana**
-🎓 **Student @ TTU** (B.Tech Software Engineering)
-🛠️ **Tools I Love**: JavaScript, GitHub, VS Code
-💡 **Playing With**: Java (yep, the backend bits), MongoDB, REST APIs, Vercel
+- 📍 **Ghana**
+- 🎓 **Student @ TTU** (B.Tech Software Engineering) 
+- 🛠️ **Tools I Love**: JavaScript, GitHub, VS Code
+- 💡 **Playing With**: Java (yep, the backend bits), MongoDB, REST APIs, Vercel
+
+
 
 ---
 
